@@ -1,0 +1,27 @@
+.para{
+    font-size: 100px;
+    font-weight: 900;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.head{
+    font-size: 80px;
+    font-weight: 900;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: brown;
+}
+.but{
+    background-color: antiquewhite;
+    width: 150px;
+    height: 36px;
+    border-radius: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    margin: 10px;
+}
+.pedha{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
